@@ -14,5 +14,6 @@ public class Ticket {
     private String movieName;
     private float price;
     private String cinemaHall;
+    private String place;
 
 }
